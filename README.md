@@ -1,4 +1,4 @@
-# -
+# Monitor website status
 监听网站是否开启..我是用来蹲点查成绩。。Python2.7+bashshell
 需要python2.7
 centos7下直接 yum  install -y python
